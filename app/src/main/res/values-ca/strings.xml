@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Back_btn">Torna</string>
+    <string name="MainText">Hola %s!</string>
+    <string name="main_btn">Personalitza</string>
+    <string name="name">Nom</string>
+    <string name="world">Món</string>
+</resources>

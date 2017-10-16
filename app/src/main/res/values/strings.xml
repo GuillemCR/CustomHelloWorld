@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">ExchangeSaludations</string>
+    <string name="MainText">Hello %s!</string>
+    <string name="main_btn">Customize</string>
+    <string name="Back_btn">Return</string>
+    <string name="name">Name</string>
+    <string name="world">World</string>
+</resources>
